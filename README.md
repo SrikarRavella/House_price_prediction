@@ -1,1 +1,3 @@
 # House_price_prediction
+To study the performance of liner regression against the house of prices situated in various localities in bengaluru  and also to predict a optimal price for a home based on the dataset from the derived model.
+The regression algorithms used in this study are multiple linear it is used to find correlation between various unique home and their features.The test is performed after applying the required pre-processing methods and splitting the data into two parts. However, one part will be used in the training and the other in the test phase.The data used in the experiment will be handled by using a combination of pre-processing methods to improve the prediction accuracy
